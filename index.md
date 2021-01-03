@@ -32,5 +32,5 @@ int x=0;
 
 [Facebook](https://facebook.com/errorpro05 "看到別嚇到")
 ```
-Instagram: error.removed
+Instagram: cannot.load_connection.refused
 ```
