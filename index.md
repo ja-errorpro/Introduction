@@ -30,7 +30,7 @@ int x=0;
 ~~我就爛~~~ 
 
 
-[Facebook](https://facebook.com/errorpro05 看到別嚇到)
+[Facebook](https://facebook.com/errorpro05 "看到別嚇到")
 ```
 Instagram: error.removed
 ```
