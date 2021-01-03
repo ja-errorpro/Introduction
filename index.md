@@ -15,7 +15,19 @@ layout: default
 
 興趣音樂吧(?，對**資訊科**跟**音樂科**較瘋狂
 
-~~平常都在鬼混~~ 
+所以我的專長是程式，就是
+
+```
+int x=0;
+	while(x!=10){
+		x=rand()%100;
+		srand(time());
+	}
+```
+
+的這種程式
+
+~~我就爛~~~ 
 
 
 [Facebook](https://facebook.com/errorpro05)
