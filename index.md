@@ -17,7 +17,7 @@ layout: default
 
 所以我的專長是程式，就是
 
-```
+```cpp
 int x=0;
 	while(x!=10){
 		x=rand()%100;
