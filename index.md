@@ -18,4 +18,7 @@ layout: default
 ~~平常都在鬼混~~ 
 
 
-[Facebook](https://facebook.com/shitela1215)
+[Facebook](https://facebook.com/errorpro05)
+```
+Instagram: error.removed
+```
