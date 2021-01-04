@@ -284,16 +284,6 @@ color: #fff;
 
 </style>
 
-</head>
-
-<body>
-
-<div style="background-color:#5cb85c;color:white;padding:20px">固定到底部</div>
-
-<div style="background-color:#f6f6f6;padding:20px 20px 1000px">
-
-該實例演示了如何創建一個「回到頂部」按鈕。請往下滾動，體驗效果。</div>
-
 <button class="js-back-to-top back-to-top" title="回到頭部">&#65085;</button>
 
 <script src="https://cdn.staticfile.org/jquery/2.2.4/jquery.min.js"></script>
@@ -333,7 +323,3 @@ $('html, body').animate({scrollTop: 0}, 200);
 });
 
 </script>
-
-
-
-原文網址：https://kknews.cc/news/k8o5arb.html
