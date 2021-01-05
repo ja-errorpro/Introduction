@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes"/>
+
+
+
+
 # [回到首頁](./)
 
 # Farmbot
@@ -93,42 +98,42 @@ layout: default
 
 >> 由24V真空泵提供動力，將種子精確定位在地面上，精度為毫米
 
-![seeder](https://cdn.shopify.com/s/files/1/2040/0289/files/Seeder_1.jpg?12723977322247612640){: width="300px" height="300px"}
-![seeder2](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FarmBot_Genesis_Seed_Injector_Assembly.png/270px-FarmBot_Genesis_Seed_Injector_Assembly.png){: width="300px" height="300px"}
+![seeder](https://cdn.shopify.com/s/files/1/2040/0289/files/Seeder_1.jpg?12723977322247612640){: width=100% height="300px" }
+![seeder2](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FarmBot_Genesis_Seed_Injector_Assembly.png/270px-FarmBot_Genesis_Seed_Injector_Assembly.png){: width=device-width height="300px"}
 
 > #### 噴水嘴:
 
 >> 結合電磁閥，用溫和的淋浴器為植物精確澆水，允許使用3D列印下半部來定制噴霧樣式
 
-![water](https://cdn.shopify.com/s/files/1/2040/0289/files/Water_1.jpg?12723977322247612640){: width="300px" height="300px"}
-![water2](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/FarmBot_Genesis_Watering_Tool_Assembly.png/270px-FarmBot_Genesis_Watering_Tool_Assembly.png){: width="300px" height="300px"}
+![water](https://cdn.shopify.com/s/files/1/2040/0289/files/Water_1.jpg?12723977322247612640){: width=device-width height="300px"}
+![water2](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/FarmBot_Genesis_Watering_Tool_Assembly.png/270px-FarmBot_Genesis_Watering_Tool_Assembly.png){: width=device-width height="300px"}
 
 > #### 除草機:
 
 >> 使用自定義的除草工具將雜草連根拔除，避免它們成為問題
 
-![weeder](https://cdn.shopify.com/s/files/1/2040/0289/files/Weeder_1.jpg?12723977322247612640){: width="300px" height="300px"}
-![weeder1](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FarmBot_Genesis_Weed_Suppressor_Assembly.png/270px-FarmBot_Genesis_Weed_Suppressor_Assembly.png){: width="300px" height="300px"}
+![weeder](https://cdn.shopify.com/s/files/1/2040/0289/files/Weeder_1.jpg?12723977322247612640){: width=device-width height="300px"}
+![weeder1](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FarmBot_Genesis_Weed_Suppressor_Assembly.png/270px-FarmBot_Genesis_Weed_Suppressor_Assembly.png){: width=device-width height="300px"}
 
 > #### 土壤傳感器:
 
 >> 透過測量土壤濕度來更有效地為農作物澆水，同時可測量土壤溫度幫助檢測發芽失敗的風險
 
-![sensor](https://cdn.shopify.com/s/files/1/2040/0289/files/Soil-Sensor_1.jpg?12723977322247612640){: width="300px" height="300px"}
-![sensor2](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FarmBot_Genesis_Soil_Sensor_Assembly.png/270px-FarmBot_Genesis_Soil_Sensor_Assembly.png){: width="300px" height="300px"}
+![sensor](https://cdn.shopify.com/s/files/1/2040/0289/files/Soil-Sensor_1.jpg?12723977322247612640){: width=device-width height="300px"}
+![sensor2](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FarmBot_Genesis_Soil_Sensor_Assembly.png/270px-FarmBot_Genesis_Soil_Sensor_Assembly.png){: width=device-width height="300px"}
 
 > #### 種子容器:
 
 >> 可容納大量一種種子，托盤則適合種植許多不同的農作物或嚴格控制每個孔的種子數
 
-![seeds](https://cdn.shopify.com/s/files/1/2040/0289/files/Seed-Bin_1.jpg?12723977322247612640){: width="300px" height="300px"}
+![seeds](https://cdn.shopify.com/s/files/1/2040/0289/files/Seed-Bin_1.jpg?12723977322247612640){: width=device-width height="300px"}
 
 
 > #### 相機:
 
 >> 防水相機為植物和土壤拍照，跟蹤植物生長，檢測雜草，蟲害和疾病跟果實成熟度
 
-![camera](https://cdn.shopify.com/s/files/1/2040/0289/files/Camera-2.jpg?12723977322247612640){: width="300px" height="300px"}
+![camera](https://cdn.shopify.com/s/files/1/2040/0289/files/Camera-2.jpg?12723977322247612640){: width=device-width height="300px"}
 
 > ### 5.探索領域
 
@@ -162,7 +167,7 @@ layout: default
 
 >> 可直接在網頁上控制和配置Farmbot，能夠實時手動控制跟記錄，用於創建自定義例程的序列生成器及拖放式農場設計器，因此可圖形化設計自己的田地
 
-> ![appdemo](./assets/images/farmbot_appdemo.png){: width="800px" height="500px"}
+> ![appdemo](./assets/images/farmbot_appdemo.png){: width=device-width height=device-height}
 
 > #### 作業系統:
 
@@ -170,7 +175,7 @@ layout: default
 
 >> 透過USB傳輸或序列連接發送指令，在第一次使用時，可透過configurator應用程式連接家中Wifi及Web應用程序
 
-> ![raspberrypi](./assets/images/raspberrypi4.jpg){: width="300px" height="300px"}
+> ![raspberrypi](./assets/images/raspberrypi4.jpg){: width=device-width height="300px"}
 
 > #### Arduino:
 
