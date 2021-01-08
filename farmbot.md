@@ -1,20 +1,21 @@
 ---
 layout: default
+title: Farmbot
 ---
-
 <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes"/>
 
 
 
 
-# [回到首頁](./)
+## [回到首頁](./)
 
-# Farmbot
+<center><h1> Farmbot </h1></center>
 
-> ## 什麼是Farmbot?
-> 一個機器人開放式系統，可通過土地種植，澆水，土壤測試和除草為所有需要耕種小土地跟想種糧食的人提供幫助
+## 什麼是Farmbot?
 
-> 使用Raspberry Pi(樹莓派)，Arduino以及其他優良組件
+一個機器人開放式系統，可通過土地種植，澆水，土壤測試和除草為所有需要耕種小土地跟想種糧食的人提供幫助
+
+使用Raspberry Pi(樹莓派)，Arduino以及其他優良組件
 
 > ### 1.碳足跡
 > #### 製造
