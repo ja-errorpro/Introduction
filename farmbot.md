@@ -245,6 +245,8 @@ title: Farmbot
 
 
 
+
+
 ## [開發文件](https://developer.farm.bot/v12/Documentation/farmbot-software-development)
 ## [操作文件](https://software.farm.bot/v12/FarmBot-Software/intro)
 ## [Github](https://github.com/FarmBot)
