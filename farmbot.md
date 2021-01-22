@@ -24,7 +24,7 @@ title: Farmbot
 >> | :----: | ---- | ---- | ---- | ---- |
 >> | 鋁 | 擠壓板 | 9.5 | 8.24 | 78.3 |
 >> | 不鏽鋼 | 硬件，軸承，驅動軸，絲槓 | 1.4 | 6.15 | 8.6 |
->> | 塑料 | 拖鏈，3D列印，輪子，電子設備，管材，電路板 | 2.8 | 2.53 | 7.1 |
+>> | 塑料 | 拖鏈，3D列印[[CAD]](https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/3a231755273e980d277c3a4c)，輪子，電子設備，管材，電路板 | 2.8 | 2.53 | 7.1 |
 >> | 銅 | 電，佈線，電動機繞組 | 0.3 | 2.60 | 0.8 |
 >> | 橡膠 | 皮帶，電線，墊片 | 0.2 | 3.18 | 0.6 |
 >> | | | | 合計 | 95.4 |
@@ -93,44 +93,44 @@ title: Farmbot
 
 >> Farm + Arduino = Farmduino ，使用24V DC供電，作為處理器，而樹莓派3可當作大腦跟網路連接
 
-> ### 4.工具
+> ### 4.工具 3D模型可參閱 [這個](https://genesis.farm.bot/v1.5/Extras/cad?fbclid=IwAR1BUr8w51e3S80-9tNpDP3ChBaVAHq8Pih8CCsbKb6_V5m7hl77qex4wDY)
 
-> #### 種子注入器:
+> #### 種子注入器 [[CAD]](https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/1449bd11dc3cf8a5f2563601?fbclid=IwAR1qbSlxlpT-fpmIKSq1HtT0u4voV9u2Tx6DipVgkH4HQPDloUZ8yByavrw) :
 
 >> 由24V真空泵提供動力，將種子精確定位在地面上，精度為毫米
 
 ![seeder](https://cdn.shopify.com/s/files/1/2040/0289/files/Seeder_1.jpg?12723977322247612640){: width=100% height="300px" }
 ![seeder2](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/FarmBot_Genesis_Seed_Injector_Assembly.png/270px-FarmBot_Genesis_Seed_Injector_Assembly.png){: width=device-width height="300px"}
 
-> #### 噴水嘴:
+> #### 噴水嘴 [[CAD]](https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/3f379dda94032bbfb6429694) :
 
 >> 結合電磁閥，用溫和的淋浴器為植物精確澆水，允許使用3D列印下半部來定制噴霧樣式
 
 ![water](https://cdn.shopify.com/s/files/1/2040/0289/files/Water_1.jpg?12723977322247612640){: width=device-width height="300px"}
 ![water2](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/FarmBot_Genesis_Watering_Tool_Assembly.png/270px-FarmBot_Genesis_Watering_Tool_Assembly.png){: width=device-width height="300px"}
 
-> #### 除草機:
+> #### 除草機 [[CAD]](https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/d8f735e3055725dc0155a480) :
 
 >> 使用自定義的除草工具將雜草連根拔除，避免它們成為問題
 
 ![weeder](https://cdn.shopify.com/s/files/1/2040/0289/files/Weeder_1.jpg?12723977322247612640){: width=device-width height="300px"}
 ![weeder1](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FarmBot_Genesis_Weed_Suppressor_Assembly.png/270px-FarmBot_Genesis_Weed_Suppressor_Assembly.png){: width=device-width height="300px"}
 
-> #### 土壤傳感器:
+> #### 土壤傳感器 [[CAD]](https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/6ca8f07ff28a92ec08c70e71) :
 
 >> 透過測量土壤濕度來更有效地為農作物澆水，同時可測量土壤溫度幫助檢測發芽失敗的風險
 
 ![sensor](https://cdn.shopify.com/s/files/1/2040/0289/files/Soil-Sensor_1.jpg?12723977322247612640){: width=device-width height="300px"}
 ![sensor2](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FarmBot_Genesis_Soil_Sensor_Assembly.png/270px-FarmBot_Genesis_Soil_Sensor_Assembly.png){: width=device-width height="300px"}
 
-> #### 種子容器:
+> #### 種子容器 [[CAD(種子分類盤)]](https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/ba2cf5c1c9299c7597d773d1) [[CAD(種子槽)]](https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/752fa7f2bba8b0042c906b5d) [[CAD(容器]](https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/15a8803a30f567a3061ece42) :
 
 >> 可容納大量一種種子，托盤則適合種植許多不同的農作物或嚴格控制每個孔的種子數
 
 ![seeds](https://cdn.shopify.com/s/files/1/2040/0289/files/Seed-Bin_1.jpg?12723977322247612640){: width=device-width height="300px"}
 
 
-> #### 相機:
+> #### 相機 :
 
 >> 防水相機為植物和土壤拍照，跟蹤植物生長，檢測雜草，蟲害和疾病跟果實成熟度
 
@@ -330,4 +330,12 @@ $('html, body').animate({scrollTop: 0}, 200);
 
 });
 
+</script>
+<script type="text/javascript">
+	$(document).ready(function() {
+	    //所有連結會在新分頁開啟
+		$('a[href^="http"]').each(function() {
+			$(this).attr('target', '_blank');
+		});
+	});
 </script>
