@@ -1,6 +1,3 @@
----
-title: 樹莓派
----
 <font color="white">
 <center>
 <h1>
