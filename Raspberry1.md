@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: no-title-post
 title: 蛤
-excerpt_separator: "<!--more-->"
 ---
 
 <font color="white">
