@@ -1,3 +1,9 @@
+---
+layout: page
+title: 蛤
+excerpt_separator: "<!--more-->"
+---
+
 <font color="white">
 <center>
 <h1>
