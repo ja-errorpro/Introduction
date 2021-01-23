@@ -136,6 +136,10 @@ title: Farmbot
 
 ![camera](https://cdn.shopify.com/s/files/1/2040/0289/files/Camera-2.jpg?12723977322247612640){: width=device-width height="300px"}
 
+> #### 樹莓派簡介 :
+
+> <IFrame Src="./Raspberry1" Name="Raspberry" Width=" 500 " Height=" 500  " Align="Center" Scrolling="yes"></IFrame>
+
 > ### 5.探索領域
 
 > #### 教育:
