@@ -6,7 +6,7 @@ layout: default
 
 # FOR Python遊戲設計
 
-第一堂: IDE: pycharm CE, Module: cocos2d
+## 第一堂: IDE: pycharm CE, Module: cocos2d
 
 [彭彭-Python程式設計入門](https://training.pada-x.com/python-start.htm)
 
@@ -19,6 +19,53 @@ layout: default
 有問題[請點這個](https://google.com)
 
 作業: 遊玩[CodeCombat](https://codecombat.com/)
+
+## 第二堂
+
+安裝Pycharm : [Pycharm](https://www.jetbrains.com/pycharm/)
+
+> **<u>Community版為開源,免費 / Professional為完整版(30天免費試用)</u>**
+
+> 需要先安裝Python (Ver. >3.7),Windows:可在Microsoft市集搜尋Python / MacOS可在官網上下載 / Linux有些版本已預安裝,安裝方式: (`` $ apt update && apt install python3 ``)
+
+安裝方式: [Here](https://pygame.hackersir.org/Lessons/01/PyCharm_install.html)
+
+設定: [here](https://pygame.hackersir.org/Lessons/01/PyCharm_config.html)
+
+安裝Cocos2d: Files>Setting>Project: Inter..>(+)>搜尋cocos2d>安裝
+
+學程式的技巧: 先抄再讀 不懂可Google
+
+#### Vim:
+
+分為**命令模式,插入模式,底線命令模式,視覺模式**
+
+**命令模式**: 為預設模式,在任何模式中按下Esc即可到此模式,可按下某些鍵來切換模式
+
+**插入模式**: 切換方式:在命令模式中按下i,a,o等按鍵,可在游標位置插入需要的文字
+
+**底線命令模式**: 切換方式:按下:,可輸入指令操作內容,
+
+離開: :q
+
+強制離開: :q!
+
+存檔不離開: :w
+
+強制存檔不離開: :w!
+
+存檔並離開: :wq
+
+強制存檔並離開: :wq!
+
+**視覺模式**: 切換方式:按下v , 方便用於閱讀和強調
+
+---
+
+檔案庫: [Here](https://drive.google.com/drive/folders/1MlQkB7COIBu_EZDFaYExBuVVb_FxZpiW?usp=sharing)
+
+
+
 
 
 <style>

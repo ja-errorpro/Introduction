@@ -40,4 +40,7 @@ Instagram: cannot.load_connection.refused
 ```
 
 Cases :
-	[Farmbot](./farmbot)
+
+[Farmbot](./farmbot)
+	
+[Python筆記](./pythonnote)
