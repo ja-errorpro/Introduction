@@ -1,10 +1,17 @@
 ---
-layout: default
+layout: post
+author: 白磷
 ---
 
 <meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=yes"/>
 
 # FOR Python遊戲設計
+
+檔案庫: [Here](https://drive.google.com/drive/folders/1MlQkB7COIBu_EZDFaYExBuVVb_FxZpiW?usp=sharing)
+
+Python程式列表(全自寫):  [LIST](./pythonprograms/list)
+
+Cocos2d: [Docs](https://docs.cocos.com/creator/2.3/manual/zh/getting-started/cocos2d-x-guide.html)
 
 ## 第一堂: IDE: pycharm CE, Module: cocos2d
 
@@ -19,6 +26,8 @@ layout: default
 有問題[請點這個](https://google.com)
 
 作業: 遊玩[CodeCombat](https://codecombat.com/)
+
+---
 
 ## 第二堂
 
@@ -60,9 +69,27 @@ layout: default
 
 **視覺模式**: 切換方式:按下v , 方便用於閱讀和強調
 
+作業: 安裝環境,開啟範例專案並測試執行幾個程式,並拍照
+
 ---
 
-檔案庫: [Here](https://drive.google.com/drive/folders/1MlQkB7COIBu_EZDFaYExBuVVb_FxZpiW?usp=sharing)
+## 第三堂
+
+讀懂程式碼的方式:
+
+> 1.小程式直接讀
+>> 從頭到尾讀
+
+>> 依執行順序讀
+
+> 2.大程式需要:
+>> 大綱工具,定義(Ctrl+b\|Ctrl+\[),搜尋,更多專業技巧
+
+> 3.善用Debugger除錯器
+
+作業: 閱讀test中任意程式,試著更動程式碼並觀察執行結果
+
+---
 
 
 
