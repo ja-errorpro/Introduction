@@ -91,7 +91,9 @@ Cocos2d: [Docs](https://docs.cocos.com/creator/2.3/manual/zh/getting-started/coc
 
 ---
 
+## 第四堂
 
+作業: 修改程式or以test資料夾中程式片段組合成一個遊戲,不懂的可註解發問研究
 
 
 
