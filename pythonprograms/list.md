@@ -10,3 +10,6 @@ author: 白磷
 
 Cocos2d HelloWorld:
 [python](./cocos2d_HelloWorld)
+
+Cocos2d AlienAttack:
+[python](./Alienattack)

@@ -93,8 +93,51 @@ Cocos2d: [Docs](https://docs.cocos.com/creator/2.3/manual/zh/getting-started/coc
 
 ## 第四堂
 
+
+
+碰撞-Collision:
+
+> [Collision](http://los-cocos.github.io/cocos-site/doc/programming_guide/collision.html#collision)
+
+> 物件有個變數名為.cshape
+
+> 實體必須為CircleShape or AARectShape
+
+> 常在Update內
+
+```python
+objs_touching_point(x, y)
+iter_colliding(object)
+```
+
+組合程式:
+
+> 簡單構思小程式(ex: 選單,遊戲畫面,角色控制,碰到畫面邊界結束)
+
+> 加一些想要的元素
+
 作業: 修改程式or以test資料夾中程式片段組合成一個遊戲,不懂的可註解發問研究
 
+---
+
+## 第五堂
+
+讀文件: [Cocos2d](http://los-cocos.github.io/cocos-site/doc/index.html#)
+
+修改程式碼: 邏輯,遊戲畫面,添加物件
+
+動畫(可使用GIF或一連串圖片集合):
+
+```python
+Sprite(Animation)
+	Animation.from_image_sequence
+		pyglet.image.ImageGrid(image, 1, 8)
+		pyglet.image.load(filename)
+```
+
+向量(Vector): euclid.Vector2 可設定預計速度
+
+作業: 期末程式碼與說明文件 or 學習心得 or 收穫
 
 
 <style>
