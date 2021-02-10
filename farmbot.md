@@ -12,6 +12,9 @@ title: Farmbot
 
 <center><h1> Farmbot </h1></center>
 
+[FBTUG共筆資料](https://paper.dropbox.com/doc/FarmBot-Repair-From-Yilan-to-Yunlin-6QJa3jqN15wj766oBaWnA)
+
+
 ## 什麼是Farmbot?
 
 一個機器人開放式系統，可通過土地種植，澆水，土壤測試和除草為所有需要耕種小土地跟想種糧食的人提供幫助
